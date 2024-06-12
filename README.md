@@ -4,7 +4,7 @@ This repo contains a collection of implementations of common data structures and
 
 #### Data Structures
 
-- [x] Vector
+- [:white_check_mark:] Vector
 - [x] LinkedList
 - [x] Stack
 - [x] Binary Search Tree
@@ -21,4 +21,4 @@ This repo contains a collection of implementations of common data structures and
 - [x] BFS
 - [x] DFS
 - [x] Dijkstra's Algorithm
-- [x] A\* Algorithm
+- [x] A\*
