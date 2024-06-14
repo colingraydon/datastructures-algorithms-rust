@@ -18,4 +18,7 @@ fn main() {
 
     let mut ll: List<i32> = List::new();
     ll.push(5);
+    ll.push(3);
+
+    print!("list is {}", ll)
 }

@@ -5,8 +5,7 @@ This repo contains a collection of implementations of common data structures and
 #### Data Structures
 
 - [x] Vector
-- [] LinkedList
-- [] Stack
+- [x] LinkedList
 - [] Binary Search Tree
 - [] B Tree
 - [] Location Aware Hash Map
