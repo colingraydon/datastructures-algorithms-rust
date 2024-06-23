@@ -1,5 +1,7 @@
 mod vector;
 use vector::Vector;
+mod linked_list;
+use linked_list::List;
 
 fn main() {
     let mut vec1: Vector<i32> = Vector::new();
@@ -13,4 +15,10 @@ fn main() {
     for elem in vec1 {
         print!("elem is {}", elem);
     }
+
+    let mut ll: List<i32> = List::new();
+    ll.push(5);
+    ll.push(3);
+
+    print!("list is {}", ll)
 }

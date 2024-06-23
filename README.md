@@ -4,21 +4,20 @@ This repo contains a collection of implementations of common data structures and
 
 #### Data Structures
 
-- [:white_check_mark:] Vector
+- [x] Vector
 - [x] LinkedList
-- [x] Stack
-- [x] Binary Search Tree
-- [x] B Tree
-- [x] Location Aware Hash Map
-- [x] Location Aware Priority Queue
-- [x] Graph
-- [x] Dope Vector
+- [] Binary Search Tree
+- [] B Tree
+- [] Location Aware Hash Map
+- [] Location Aware Priority Queue
+- [] Graph
+- [] Dope Vector
 
 #### Algorithms
 
-- [x] Binary Search
-- [x] Quick Sort
-- [x] BFS
-- [x] DFS
-- [x] Dijkstra's Algorithm
-- [x] A\*
+- [] Binary Search
+- [] Quick Sort
+- [] BFS
+- [] DFS
+- [] Dijkstra's Algorithm
+- [] A\*
