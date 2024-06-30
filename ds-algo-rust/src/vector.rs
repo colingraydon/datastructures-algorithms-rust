@@ -128,6 +128,10 @@ impl<T> Vector<T> {
             result
         }
     }
+
+    pub fn is_empty(&self) -> bool {
+        self.len == 0
+    }
 }
 
 impl<T: fmt::Debug> fmt::Display for Vector<T> {

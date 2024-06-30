@@ -6,7 +6,7 @@ This repo contains a collection of implementations of common data structures and
 
 - [x] Vector
 - [x] LinkedList
-- [] Binary Search Tree
+- [x] Binary Search Tree
 - [] B Tree
 - [] Location Aware Hash Map
 - [] Location Aware Priority Queue
